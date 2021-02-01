@@ -1,0 +1,16 @@
+{
+  "equipes": {
+    "id": 1,
+    "nom": "Neymar",
+    "piedsfort": "D",
+    "nationnalite": "Brazil",
+    "equipeID": 1
+  },
+  "joueurs": {
+    "id": 1,
+    "nom": "Neymar",
+    "piedsfort": "D",
+    "nationnalite": "Brazil",
+    "equipeID": 1
+  }
+}
