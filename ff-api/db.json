@@ -1,16 +1,30 @@
 {
-  "equipes": {
-    "id": 1,
-    "nom": "Neymar",
-    "piedsfort": "D",
-    "nationnalite": "Brazil",
-    "equipeID": 1
-  },
-  "joueurs": {
-    "id": 1,
-    "nom": "Neymar",
-    "piedsfort": "D",
-    "nationnalite": "Brazil",
-    "equipeID": 1
-  }
+  "equipes": [
+    {
+      "id": 1,
+      "nom": "REAL MADRID",
+      "adresse": "MADRID"
+    },
+    {
+      "nom": "PSG",
+      "adresse": "PARIS",
+      "id": 2
+    }
+  ],
+  "joueurs": [
+    {
+      "id": 1,
+      "nom": "Neymar",
+      "piedsfort": "D",
+      "nationnalite": "Brazil",
+      "equipeID": 1
+    },
+    {
+      "nom": "Mbappé",
+      "piedsfort": "G",
+      "nationnalite": "Fran",
+      "equipeID": 1,
+      "id": 2
+    }
+  ]
 }
