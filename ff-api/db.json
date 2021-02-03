@@ -9,6 +9,16 @@
       "nom": "PSG",
       "adresse": "PARIS",
       "id": 2
+    },
+    {
+      "nom": "PSG",
+      "adresse": "PARIS",
+      "id": 3
+    },
+    {
+      "nom": "PSG",
+      "adresse": "PARIS",
+      "id": 4
     }
   ],
   "joueurs": [
